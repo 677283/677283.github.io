@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Channel_83 Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "(Choi Hyun Seung)"
+name                     : "Choi Hyun Seung"
 description              : "An amazing website."
 url                      : "https://677283.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
