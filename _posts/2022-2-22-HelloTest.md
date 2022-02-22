@@ -25,7 +25,7 @@ Nested and mixed lists are an interesting beast. It's a corner case to make sure
     2. ordered item
 3. ordered item
 4. ordered item
-
+![My helpful screenshot](/assets/Images/Profile.png)
 ### Ordered -- Unordered -- Unordered
 
 1. ordered item
